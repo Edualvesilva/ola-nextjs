@@ -5,10 +5,8 @@ export default function Servicos() {
     <>
       <h1>Olá Next.js!</h1>;
       <Menu />
-      <main>
-        <h2>Bem-vindo ao Next.js</h2>
-        <h3>Serviços</h3>
-      </main>
+      <h2>Bem-vindo ao Next.js</h2>
+      <h3>Serviços</h3>
     </>
   );
 }
